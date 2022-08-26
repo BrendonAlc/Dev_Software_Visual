@@ -1,0 +1,5 @@
+C:\Users\09107405936\Documents\Dev_Software_Visual\Res_Obj\obj\Debug\net5.0\Res_Obj.csproj.AssemblyReference.cache
+C:\Users\09107405936\Documents\Dev_Software_Visual\Res_Obj\obj\Debug\net5.0\Res_Obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09107405936\Documents\Dev_Software_Visual\Res_Obj\obj\Debug\net5.0\Res_Obj.AssemblyInfoInputs.cache
+C:\Users\09107405936\Documents\Dev_Software_Visual\Res_Obj\obj\Debug\net5.0\Res_Obj.AssemblyInfo.cs
+C:\Users\09107405936\Documents\Dev_Software_Visual\Res_Obj\obj\Debug\net5.0\Res_Obj.csproj.CoreCompileInputs.cache
