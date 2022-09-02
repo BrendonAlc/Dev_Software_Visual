@@ -1,0 +1,5 @@
+C:\Users\09107405936\Documents\Dev_Software_Visual\Login\obj\Debug\net5.0\Login.csproj.AssemblyReference.cache
+C:\Users\09107405936\Documents\Dev_Software_Visual\Login\obj\Debug\net5.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09107405936\Documents\Dev_Software_Visual\Login\obj\Debug\net5.0\Login.AssemblyInfoInputs.cache
+C:\Users\09107405936\Documents\Dev_Software_Visual\Login\obj\Debug\net5.0\Login.AssemblyInfo.cs
+C:\Users\09107405936\Documents\Dev_Software_Visual\Login\obj\Debug\net5.0\Login.csproj.CoreCompileInputs.cache

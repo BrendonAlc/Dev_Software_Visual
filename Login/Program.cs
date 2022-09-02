@@ -1,18 +1,18 @@
 ﻿using System;
 using System.IO;
+using System.Security.Cryptography;
 
 namespace Login
 {
     class Program
     {
         //hash é converter uma string em número
-
         static bool cadastrar(string username, string password)
         {
             string linha = username + "=" + password;
 
             File.AppendAllText("users.txt", linha);
-        }
+        } //Finalizar código de criptografia
         static void Main(string[] args)
         {
             System.Console.WriteLine("Bem vindo!");
@@ -27,7 +27,7 @@ namespace Login
                 try{
                     opcao = int.Parse(Console.ReadLine());
                 }
-                catch(Exception e)
+                catch(Exception )
                 {
                     //nada
                     //Poderia colocar a mensagem de erro aqui caso não valide no switch
